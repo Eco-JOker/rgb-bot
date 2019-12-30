@@ -83,11 +83,11 @@ body {
       -moz-border-radius: 17;
       border-radius: 15px;
       bottom: 0pt;
-      color: blue;
+      color: white;
   }
   
   button {
-      background: #343b34;
+      background: #0ccafa;
       background-image: -webkit-linear-gradient(top, #343b34, #343b34);
       background-image: -moz-linear-gradient(top, #343b34, #343b34);
       background-image: -ms-linear-gradient(top, #343b34, #343b34);
@@ -97,7 +97,7 @@ body {
       -moz-border-radius: 17;
       border-radius: 17px;
       font-family: Arial;
-      color: white;
+      color: #ffffff;
       font-size: 20px;
       padding: 10px 20px 10px 20px;
       text-decoration: none;
