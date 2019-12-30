@@ -33,7 +33,7 @@ body {
       background-position: center center;
       background-repeat: repeat;
       background-attachment: fixed;
-      background-color: white;
+      background-color: #171a17;
   }
   
   html {
@@ -83,7 +83,7 @@ body {
       -moz-border-radius: 17;
       border-radius: 15px;
       bottom: 0pt;
-      color: white;
+      color: blue;
   }
   
   button {
@@ -97,7 +97,7 @@ body {
       -moz-border-radius: 17;
       border-radius: 17px;
       font-family: Arial;
-      color: #ffffff;
+      color: white;
       font-size: 20px;
       padding: 10px 20px 10px 20px;
       text-decoration: none;
